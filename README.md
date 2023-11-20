@@ -1,3 +1,3 @@
 # Apply_vis_project
 
-Visual Comparison of injuries between National Football League (NFL) Teams.
+Visual Comparison of Injuries between National Football League (NFL) Teams.
